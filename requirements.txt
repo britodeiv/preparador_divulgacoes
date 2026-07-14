@@ -1,0 +1,4 @@
+customtkinter>=5.2
+openpyxl>=3.1
+pywin32>=306
+pyinstaller>=6.0
