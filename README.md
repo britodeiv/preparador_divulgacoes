@@ -73,6 +73,10 @@ O executável será criado em:
 PARA_ENVIAR\Preparador_de_Divulgacoes.exe
 ```
 
+<img width="1117" height="818" alt="image" src="https://github.com/user-attachments/assets/4a8bb92a-92cd-42c3-b710-1941ab116ea8" />
+
+
+
 O usuário final não precisa ter Python instalado quando o programa é empacotado com `--onefile`.
 
 ## Formato esperado
